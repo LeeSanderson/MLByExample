@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "dataframe",
         "dtype",
         "Kaggle",
         "onehot",
         "Pclass"
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
