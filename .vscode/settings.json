@@ -1,11 +1,20 @@
 {
     "cSpell.words": [
         "actuals",
+        "cmap",
+        "colorbar",
         "dataframe",
+        "dstack",
         "dtype",
+        "figsize",
+        "importances",
+        "imshow",
         "Kaggle",
+        "ndarray",
         "onehot",
-        "Pclass"
+        "openml",
+        "Pclass",
+        "skimage"
     ],
     "python.analysis.typeCheckingMode": "basic"
 }
